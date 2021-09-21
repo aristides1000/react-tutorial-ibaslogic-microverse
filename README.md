@@ -1,6 +1,50 @@
-# Getting Started with Create React App
+# React Tutorial Microverse Ibaslogic
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> This is a React project where a user can make use of an application based on a ToDo list, in this project the user can create a list of tasks to do, can edit those tasks, and can delete them this, application was made with React.
+![screenshot](./1_screenshot.png)
+
+## Built With
+
+- React
+- HTML
+- CSS
+- JavaScript
+- ESLint
+
+## Live Demo
+
+[Live Demo Link](https://aristides1000.github.io/math-magicians-react/)
+
+## Getting Started
+1. Clone this repo on your local machine
+
+2. In the path where your repository is located, you will open your terminal.
+
+3. In the path where your repository is located you are going to open your terminal and put ```npm install``` hit enter, after that type the command ```npm start```.
+
+4. Enjoy.
+
+### Prerequisites
+To make this repository working in your local machine you need only a browser.
+
+## Author
+
+👤 **Arístides José Molina Pérez**
+
+- Github: [@aristides1000](https://github.com/aristides1000)
+- Twitter: [@aristides_1000](https://twitter.com/aristides_1000)
+- Linkedin: [Aristides Jose Molina Perez](https://www.linkedin.com/in/aristides-molina/)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/aristides1000/react-tutorial-ibaslogic-microverse/issues).
+
+
+## Show your support
+
+Give a ⭐️ if you like this project!
 
 ## Available Scripts
 
@@ -68,3 +112,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Acknowledgments
+
+- Ariel Camus CEO Microverse: For letting us start this journey.
+- Google: For letting us find crucial information in order to create this project.
+
+## 📝 License
+
+This project is [CC0-1.0](LICENSE) licensed.

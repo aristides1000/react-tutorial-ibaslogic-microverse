@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/react-tutorial-ibaslogic-microverse/static/css/main.66a98a93.chunk.css",
-    "main.js": "/react-tutorial-ibaslogic-microverse/static/js/main.98b14c37.chunk.js",
-    "main.js.map": "/react-tutorial-ibaslogic-microverse/static/js/main.98b14c37.chunk.js.map",
+    "main.js": "/react-tutorial-ibaslogic-microverse/static/js/main.02443035.chunk.js",
+    "main.js.map": "/react-tutorial-ibaslogic-microverse/static/js/main.02443035.chunk.js.map",
     "runtime-main.js": "/react-tutorial-ibaslogic-microverse/static/js/runtime-main.5d3e2b93.js",
     "runtime-main.js.map": "/react-tutorial-ibaslogic-microverse/static/js/runtime-main.5d3e2b93.js.map",
-    "static/js/2.d190872a.chunk.js": "/react-tutorial-ibaslogic-microverse/static/js/2.d190872a.chunk.js",
-    "static/js/2.d190872a.chunk.js.map": "/react-tutorial-ibaslogic-microverse/static/js/2.d190872a.chunk.js.map",
+    "static/js/2.d1674d96.chunk.js": "/react-tutorial-ibaslogic-microverse/static/js/2.d1674d96.chunk.js",
+    "static/js/2.d1674d96.chunk.js.map": "/react-tutorial-ibaslogic-microverse/static/js/2.d1674d96.chunk.js.map",
     "index.html": "/react-tutorial-ibaslogic-microverse/index.html",
     "static/css/main.66a98a93.chunk.css.map": "/react-tutorial-ibaslogic-microverse/static/css/main.66a98a93.chunk.css.map",
-    "static/js/2.d190872a.chunk.js.LICENSE.txt": "/react-tutorial-ibaslogic-microverse/static/js/2.d190872a.chunk.js.LICENSE.txt"
+    "static/js/2.d1674d96.chunk.js.LICENSE.txt": "/react-tutorial-ibaslogic-microverse/static/js/2.d1674d96.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5d3e2b93.js",
-    "static/js/2.d190872a.chunk.js",
+    "static/js/2.d1674d96.chunk.js",
     "static/css/main.66a98a93.chunk.css",
-    "static/js/main.98b14c37.chunk.js"
+    "static/js/main.02443035.chunk.js"
   ]
 }
